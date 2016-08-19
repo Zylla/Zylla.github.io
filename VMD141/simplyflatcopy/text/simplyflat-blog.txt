@@ -1,0 +1,97 @@
+<!-- Heading 1 -->
+Blog
+
+<!-- Paragraph -->
+Vel tempor referrentur neglegentur cu, mel ut enim iudicabit intellegat, ea putent salutandi quo. Sonet putant graecis ut nec. Magna laoreet consequuntur vis referrentur neglegentur.
+
+<!-- Heading 2 -->
+Pellentesque habitant morbi
+
+<!-- Unordered list -->
+February 02, 2013
+Diana Anderson
+24 Comments
+
+<!-- Image, path to image is "http://lorempixel.com/700/250/business", enter "Business meeting" for alt attribute value -->
+
+<!-- Paragraph -->
+Qui ad illud impedit argumentum, per an dicam dignissim signiferumque. Eu consul cetero commune sit. Mundi nostrud disputando vix ea, ut eum latine accusamus corrumpit. Munere ridens nostro eu mel. Nam an labore mediocritatem. Delenit euripidis torquatos eam eu. Tempor admodum adipisci et cum, hinc solum expetendis usu no. Usu ut esse laoreet consequat. Sea mundi decore fastidii et, at mei laudem perfecto oportere, harum deserunt no est. Cum at idque iracundia, diam ceteros molestie vix ad. Eam exerci dolores complectitur ex, patrioque maiestatis eu duo, prompta recteque eam te.
+
+<!-- Link, use "#" for href attribute value -->
+Read More
+
+<!-- Heading 2 -->
+Pellentesque habitant morbi
+
+<!-- Unordered list -->
+February 02, 2013
+Diana Anderson
+24 Comments
+
+<!-- Image, path to image is "http://lorempixel.com/700/250/nature", enter "Nature" for alt attribute value -->
+
+<!-- Paragraph -->
+Qui ad illud impedit argumentum, per an dicam dignissim signiferumque. Eu consul cetero commune sit. Mundi nostrud disputando vix ea, ut eum latine accusamus corrumpit. Munere ridens nostro eu mel. Nam an labore mediocritatem. Delenit euripidis torquatos eam eu. Tempor admodum adipisci et cum, hinc solum expetendis usu no. Usu ut esse laoreet consequat. Sea mundi decore fastidii et, at mei laudem perfecto oportere, harum deserunt no est. Cum at idque iracundia, diam ceteros molestie vix ad. Eam exerci dolores complectitur ex, patrioque maiestatis eu duo, prompta recteque eam te.
+
+<!-- Link, use "#" for href attribute value -->
+Read More
+
+<!-- Heading 2 -->
+Pellentesque habitant morbi
+
+<!-- Unordered list -->
+February 02, 2013
+Diana Anderson
+24 Comments
+
+<!-- Image, path to image is "http://lorempixel.com/700/250/abstract", enter "Abstract" for alt attribute value -->
+
+<!-- Paragraph -->
+Qui ad illud impedit argumentum, per an dicam dignissim signiferumque. Eu consul cetero commune sit. Mundi nostrud disputando vix ea, ut eum latine accusamus corrumpit. Munere ridens nostro eu mel. Nam an labore mediocritatem. Delenit euripidis torquatos eam eu. Tempor admodum adipisci et cum, hinc solum expetendis usu no. Usu ut esse laoreet consequat. Sea mundi decore fastidii et, at mei laudem perfecto oportere, harum deserunt no est. Cum at idque iracundia, diam ceteros molestie vix ad. Eam exerci dolores complectitur ex, patrioque maiestatis eu duo, prompta recteque eam te.
+
+<!-- Link, use "#" for href attribute value -->
+Read More
+
+<!-- Form field & button go here - You will add this later -->
+
+<!-- Heading 3 -->
+Blog Categories
+
+<!-- Unordered list, make each a link and use "#" for href attribute value -->
+Link One
+Link Two
+Link Three
+Link Four
+Link Five
+
+<!-- Heading 3 -->
+Recent Entries
+
+<!-- Image, path to image is "http://lorempixel.com/100/100/business/1", enter "Business meeting" for alt attribute value -->
+
+<!-- Paragraph -->
+Anim moon officia Unify is an incredibly beautiful responsive
+
+<!-- Image, path to image is "http://lorempixel.com/100/100/business/2", enter "Business meeting" for alt attribute value -->
+
+<!-- Paragraph -->
+Anim moon officia Unify is an incredibly beautiful responsive
+
+<!-- Image, path to image is "http://lorempixel.com/100/100/business/3", enter "Business meeting" for alt attribute value -->
+
+<!-- Paragraph -->
+Anim moon officia Unify is an incredibly beautiful responsive
+
+<!-- Heading 3 -->
+Photos
+
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/1", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/2", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/3", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/4", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/5", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/6", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/7", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/8", enter "Technical" for alt attribute value -->
+<!-- Image, path to image is "http://lorempixel.com/100/100/technics/9", enter "Technical" for alt attribute value -->
+

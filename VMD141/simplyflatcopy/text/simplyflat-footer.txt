@@ -1,0 +1,33 @@
+<!-- Heading 4 -->
+Simply Flat
+
+<!-- Paragraph -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu posuere leo. Pellentesque a lobortis erat. Maecenas vel metus vitae urna sollicitudin eleifend a vel elit.
+
+<!-- Heading 4 -->
+Testimonials
+
+<!-- Paragraph -->
+Consectetur adipiscing elit. Pellentesque eu posuere leo. Pellentesque a lobortis erat. Maecenas vel metus vitae urna sollicitudin eleifend a vel elit.
+LouEtta
+
+<!-- Heading 4 -->
+Contact Us
+
+<!-- Unordered List, make the URL a link and use "#" for href attribute value-->
+5B Streat, City 50987
+info@example.com
+1.541.258.2881
+1.541.854.8412
+http://www.example.com
+
+<!-- Heading 4 -->
+We're Social
+
+<!-- Social media icons go here - You will add them later -->
+
+<!-- Paragraph -->
+&copy; 2013 Simply Flat
+
+<!-- Paragraph, make "Northify" a link and use "#" for href attribute value -->
+Theme by Northify

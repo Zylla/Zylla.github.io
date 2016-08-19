@@ -1,0 +1,83 @@
+<!-- Heading 1 -->
+This theme is flat, fun and easy to customize.
+
+<!-- Paragraph -->
+Sit in meis saepe, ea mei unum ancillae liberavisse. Alienum atomorum efficiantur sea, mei ex populo admodum. Est ei illum forensibus constituam, ut vidisse fabulas accusamus pro. Vis vero civibus te, nulla platonem quaerendum in eam
+
+<!-- Link, use "#" for href attribute value -->
+Find Out More
+
+<!-- Link, use "#" for href attribute value -->
+See Our Clients
+
+<!-- Image, path to image is "images/home-banner.png", enter "Laptop" for alt attribute value -->
+
+<!-- Heading 3, make "Find Out More" a link and use "#" for href attribute value -->
+This theme is fully responsive. Well of course it is. This is great! Find Out More
+
+<!-- Heading 1 -->
+You should you choose Simply Flat
+
+<!-- Heading 3 -->
+Fully Responsive
+
+<!-- Paragraph -->
+Timeam quaeque fuisset eu has, ex aperiri facilis efficiendi quo, ei sed choro voluptua moderatiu.
+
+<!-- Heading 3 -->
+Super Flat & Fun
+
+<!-- Paragraph -->
+Timeam quaeque fuisset eu has, ex aperiri facilis efficiendi quo, ei sed choro voluptua moderatiu.
+
+<!-- Heading 3 -->
+Easy to Configure
+
+<!-- Paragraph -->
+Timeam quaeque fuisset eu has, ex aperiri facilis efficiendi quo, ei sed choro voluptua moderatiu.
+
+<!-- Heading 2 -->
+Showcase all your work
+
+<!-- Paragraph -->
+Eruditi fabellas maiestatis ei vis, populo audiam mnesarchum et vis, prima saepe pri ad. Quidam nonumes an vel, no quo reque eloquentiam. Ex saperet omittantur vix, usu ut bonorum similique. Cum sale commodo ponderum id, nihil vidisse at sed, euismod vivendo ius ne.Quis error concludaturque.
+
+<!-- Link, use "#" for href attribute value -->
+See Our Clients
+
+<!-- Paragraph -->
+Sit amettur
+
+<!-- Paragraph -->
+Sadipiscing elit
+
+<!-- Paragraph -->
+Pellsque eu posuere
+
+<!-- Paragraph -->
+Dolor sit amet
+
+<!-- Image, path to image is "images/responsive.png", enter "Responsive" for alt attribute value -->
+
+<!-- Heading 2 -->
+Looks Great Everywhere
+
+<!-- Paragraph -->
+Inani decore labore ei vel, vix ut agam soleat rendum. Cum meliore postulant ex, aliquam suscipit patrioque usu in meliore postulant.
+
+<!-- Unordered list -->
+Point One
+Point Two
+Point Three
+Point Four
+
+<!-- Image, path to image is "http://lorempixel.com/400/275/business/", enter "Business meeting" for alt attribute value -->
+
+<!-- Heading 2 -->
+From the blog
+
+<!-- Paragraph -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu posuere leo. Pellentesque a lobortis erat. Maecenas vel metus vitae urna sollicitudin eleifend a vel adipiscing elit. Pellentesque eu posuere elit.
+
+<!-- Link, use "#" for href attribute value -->
+Read more

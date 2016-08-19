@@ -1,0 +1,14 @@
+<!-- Heading 1, make a link and use "index.html" for href attribute value -->
+Simply Flat
+
+<!-- Unordered list -->
+Home
+<!-- Link, make href attribute value = "index.html" -->
+About Us
+<!-- Link, make href attribute value = "about.html" -->
+Portfolio
+<!-- Link, make href attribute value = "portfolio.html" -->
+Blog
+<!-- Link, make href attribute value = "blog.html" -->
+Contact Us
+<!-- Link, make href attribute value = "contact.html" -->

@@ -1,0 +1,27 @@
+<!-- Heading 1 -->
+Contact Us
+
+<!-- Paragraph -->
+Vel tempor referrentur neglegentur cu, mel ut enim iudicabit intellegat, ea putent salutandi quo. Sonet putant graecis ut nec. Magna laoreet consequuntur vis referrentur neglegentur.
+
+<!-- Table goes here - You will add this later -->
+
+<!-- Paragraph -->
+We'd love to hear from you. Interested in working together? Fill out the form below with some info about your project and we will get back to you right away.
+
+<!-- Form goes here - You will add this later -->
+
+<!-- Heading 2 -->
+We are located here
+
+<!-- Embedded Google Map goes here - You will add this later -->
+
+<!-- Heading 3 -->
+Simply Flat
+
+<!-- Unordered List, make the URL a link and use "#" for href attribute value-->
+5B Streat, City 50987
+info@example.com
+1.541.258.2881
+1.541.854.8412
+http://www.example.com
