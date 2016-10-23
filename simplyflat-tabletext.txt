@@ -1,0 +1,109 @@
+
+Name
+                            
+Title
+                            
+Phone
+                            
+Email
+                        
+                        
+                            
+Jeff Simkins
+                            
+Principle
+                            
+(415) 555-2345
+                            
+jsimkins@sf.com
+                        
+                        
+                            
+Rosaria Arvin
+                            
+CFO
+                            
+(415) 555-3456
+                            
+rarvin@sf.com
+                        
+                        
+                            
+Eulah Noyola
+                            
+CTO
+                            
+(415) 555-4567
+                            
+enoyola@sf.com
+                        
+                        
+                            
+Darell Demott
+                            
+Regional Sales
+                            
+(415) 555-5678
+                            
+ddemott@sf.com
+                        
+                        
+                            
+Tia Forth
+                            
+Sales Manager
+                            
+(415) 555-4536
+                            
+tforth@sf.com
+                        
+                        
+                            
+Lilia Zheng
+                            
+Sales
+                            
+(415) 555-6879
+                            
+lzheng@sf.com
+                        
+                        
+                            
+Margery Varnell
+                            
+Sales
+                            
+(415) 555-1764
+                            
+mvarnell@sf.com
+                        
+                        
+                            
+Jessie Pollitt
+                            
+Sales
+                            
+(415) 555-0456
+                            
+jpollitt@sf.com
+                        
+                        
+                            
+Earnestine Schimmel
+                            
+Analyst
+                            
+(415) 555-5576
+                            
+eschimmel@sf.com
+                        
+                        
+                            
+Kenya Reisinger
+                            
+Analyst
+                            
+(415) 555-9354
+                            
+kreisinger@sf.com
+             

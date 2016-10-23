@@ -1,0 +1,50 @@
+@charset "UTF-8";
+html {
+    box-sizing: border-box
+}
+
+*:before,
+*:after box-sizing:inherit;
+.container {
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.column {
+    float: left;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css"> <link rel="stylesheet" href="css/stylenew.css"> body {
+    width: 800px;
+    text-decoration-line: line-through
+}
+
+.body {
+    font-family: 'Slabo 27px', serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.h1 {
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Trirong', serif;
+}
+
+.head {
+    font-family: 'Slabo 27px', serif;
+    font-family: 'Trirong', serif;
+}
+
+.footer p {
+    font-size: 10px;
+    font-weight: 200;
+    margin-top: auto;
+}
+
+.brand {
+    padding-top: 45px;
+    bottom: 45px;
+}
