@@ -37,6 +37,7 @@ html {
 
 .page-header.home {
     margin-bottom: 0;
+    color: 5adae2px;
 }
 
 .page-header h1 {
@@ -66,7 +67,7 @@ h1,
 h2,
 h3,
 h4 {
-    background-color: #373737;
+    color: #373737;
 }
 
 a {
@@ -164,7 +165,8 @@ footer {
 
 .tile {
     background-color: #5adae2;
-    color: #fff
+    color: #fff padding: 10px;
+    margin-bottom: 10px;
 }
 
 .blog-tease {
@@ -286,6 +288,10 @@ ul {
 .message {
     padding-top: 60px;
     padding-bottom: 60px;
+}
+
+.message h3 {
+    color: #fff;
 }
 
 .team h1 {
