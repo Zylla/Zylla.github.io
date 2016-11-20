@@ -1,0 +1,16 @@
+/*Smartphone landscape*/
+
+@media (min-width: 480px) {}
+
+
+/*Small devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {
+    /* ... paste form CSS here ... */
+}
+
+
+/* Medium devices (desktops, 992px and up)
+*/
+
+@media (min-width:992) {}
