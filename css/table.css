@@ -1,0 +1,135 @@
+.contact-table caption {
+    color: #373737;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 200;
+}
+
+.contact-table tr:nth-child(odd) {
+    background-color: #F9F8F8;
+}
+
+.contact-table tr:hover {
+    background-color: #999999;
+    cursor: crosshair;
+}
+
+table,
+caption,
+thead,
+tbody,
+tr,
+th,
+td {
+    display: block;
+}
+
+.contact-table {
+    width: 99% margin-bottom: 50px;
+}
+
+
+/* hide table header */
+
+.contact-table th {
+    position: static;
+    /*add this to the existing rule*/
+    text-align: left;
+    background-color: #ffffff;
+    color: #373737;
+    letter-spacing: 1px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+.contact-table td {
+    padding-left: 5px;
+}
+
+
+/* this rule is already in the file in the 768px media query. Move it outside of that and change some properties and values */
+
+.contact-table td {
+    color: #373737;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #373737;
+    position: relative;
+    padding-left: 30%;
+}
+
+
+/* td content becomes vertical list */
+
+.contact-table td:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 30%;
+    padding-right: 10px;
+}
+
+
+/* tables headers become vertical list */
+
+.contact-table td:nth-of-type(1):before {
+    content: "Name";
+}
+
+.contact-table td:nth-of-type(2):before {
+    content: "Title";
+}
+
+.contact-table td:nth-of-type(3):before {
+    content: "Phone";
+}
+
+.contact-table td:nth-of-type(4):before {
+    content: "Email";
+}
+
+
+/*Smartphone landscape*/
+
+@media (min-width: 480px) {}
+
+
+/*Small devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {
+    /* reestablish table default display status */
+    table {
+        display: table;
+    }
+    caption {
+        display: table-caption;
+    }
+    thead {
+        display: table-header-group;
+    }
+    tbody {
+        display: table-row-group;
+    }
+    tr {
+        display: table-row;
+    }
+    th,
+    td {
+        display: table-cell;
+    }
+    .contact-table td:nth-of-type(1):before,
+    .contact-table td:nth-of-type(2):before,
+    .contact-table td:nth-of-type(3):before,
+    .contact-table td:nth-of-type(4):before {
+        content: "";
+    }
+    /* ... paste table css here ... */
+}
+
+
+/* Medium devices (desktops, 992px and up)
+*/
+
+@media (min-width:992) {}
