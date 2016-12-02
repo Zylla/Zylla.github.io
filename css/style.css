@@ -149,6 +149,7 @@
     .footer-bottom {
         background-color: #1e1f1f;
         color: #fff;
+        text-align:center;
     }
     
     .footer-bottom p {
@@ -183,7 +184,7 @@
         margin-top: 0;
     }
     
-    .footer ul {
+    footer ul {
         font-size: 16px;
         font-weight: 200;
         text-align: left;
