@@ -78,7 +78,6 @@ input[type="tel"] {
     width: 360px;
 }
 
-width: 300px;
 
 /* note change of width size */
 
@@ -117,7 +116,7 @@ input[type="submit"].btn {
 
 /* Medium devices (desktops, 992px and up)
 */
-@media (min-width:992) {
+@media (min-width:992px) {
     .sidebar {
         padding: 30px;
     }
