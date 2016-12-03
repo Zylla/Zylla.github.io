@@ -1,0 +1,51 @@
+.container {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.column {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.row{
+    overflow: hidden;
+}
+.one-whole {
+    width: 940px;
+}
+.three-quarters {
+    width: 700px;
+}
+.one-four{
+  width: 200px;  
+}
+.one-half{
+    width: 460px;
+}
+.two-third {
+    width: 620px;
+}
+.one-third {
+    width: 300px;
+}
+.one-six {
+ 140px;   
+}
+.alpha{
+    margin-right: 0px; 
+}
+.omega{
+    margin-right: 0px;
+}
+nav ul li{
+    display: inline-block;  
+}
+ul{
+    list-style: none;
+    padding: : 0;
+}
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+}
