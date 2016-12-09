@@ -1,4 +1,9 @@
+.contact-table {
+    width: 99%; 
+    margin-bottom: 50px;
+}
 .contact-table caption {
+    width: 960px;
     color: #373737;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -25,9 +30,7 @@ td {
     display: block;
 }
 
-.contact-table {
-    width: 99% margin-bottom: 50px;
-}
+
 
 
 /* hide table header */
@@ -132,4 +135,4 @@ td {
 /* Medium devices (desktops, 992px and up)
 */
 
-@media (min-width:992) {}
+@media (min-width:992px) {}
