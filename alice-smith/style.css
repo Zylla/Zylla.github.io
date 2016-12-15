@@ -1,51 +1,263 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
 .container {
     width: 960px;
     margin-right: auto;
     margin-left: auto;
 }
+
+.row {
+    overflow: hidden;
+    width: 100%;
+}
+
+.title {
+    color: white;
+}
+
+h1 {
+    font-family: 'Swanky and Moo Moo', cursive;
+    padding:  18px;
+    color: white;
+    background-color: black;
+}
+
+h1 a {
+    color: white;
+}
+
+h2 {
+    margin-top: 40px;
+    font-size: 22px;
+    font-style:
+  
+  
+}
+
+h3 {
+    font-size: 16px;
+    margin: 0;
+}
+h4{
+    font-size: 14px;
+    margin: 0;
+}
+p {
+    font-size: 12px;
+    padding-top: 0;
+    box-sizing: border-box;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a:hover {
+    color: #b45737;
+}
+
+nav li {
+    float: left;
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    margin-top: 40px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+li {
+    list-style: none;
+}
+
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    text-align: left;
+}
+
 .column {
     float: left;
     margin-right: 10px;
     margin-left: 10px;
+    box-sizing: border-box;
 }
-.row{
+
+.row {
     overflow: hidden;
+    width: 100%;
 }
+
 .one-whole {
-    width: 940px;
+    width: 960px;
 }
-.three-quarters {
-    width: 700px;
+
+.one-half {
+    width: 420px;
 }
-.one-four{
-  width: 200px;  
-}
-.one-half{
-    width: 460px;
-}
-.two-third {
-    width: 620px;
-}
+
 .one-third {
     width: 300px;
+    float: left;
+    text-align: center;
+    
 }
-.one-six {
- 140px;   
+
+.two-thirds {
+    width: 620px;
 }
-.alpha{
-    margin-right: 0px; 
+
+.one-fourth {
+    width: 200px;
+    font-size: 12px;
 }
-.omega{
-    margin-right: 0px;
+
+.three-fourths {
+    width: 600px;
 }
-nav ul li{
-    display: inline-block;  
-}
-ul{
-    list-style: none;
-    padding: : 0;
-}
-.img-responsive{
+
+.img-responsive {
     max-width: 100%;
     height: auto;
+}
+
+.page-middle {
+    background-color: #f1f1f1;
+    padding-bottom: 30px;
+   
+}
+
+.cases {
+    text-align: left;
+    float: left;
+}
+
+.servicetext {
+    text-align: left;
+}
+
+.insidebox {
+    padding-left: 25px;
+    
+}
+
+.realestate {
+    background-image: url("../images/marker-3-1.png");
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
+}
+
+.cart {
+   background-image: url("../images/marker-3-2.png");
+    background-repeat: no-repeat;
+       background-position: 5px 35px;
+
+}
+
+.bars {
+    background-image: url("../images/marker-3-3.png");
+    background-repeat: no-repeat;  
+       background-position: 5px 35px;
+
+}
+
+.green{
+      background-image: url("../images/marker-3-4.png");
+    background-repeat: no-repeat; 
+       background-position: 5px 35px;
+
+}
+
+.star {
+   background-image: url("../images/marker-3-5.png");
+   background-repeat: no-repeat; 
+   background-position: 10px 50px;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+
+
+footer {
+    color: white;
+    background-color: black;
+    height: 80px;
+    margin-top: 40px;
+    font-style: italic;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 10px;
+    background-color: lightgrey;
+    color: black;
+    padding: 5px 5px;
+    border-radius: 14px;
+    border: 1px solid grey;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+/*position absolute to parent element*/
+.textposition {
+    position: relative;
+}
+
+.captext {
+    position: absolute;
+    left:55px;
+    top:150px;
+    color: white;
+    text-align: left;
+    font-size: 36px;
+}
+
+em {
+    font-family: 'Swanky and Moo Moo', cursive;
+    color: firebrick;
+}
+
+span {
+    font-family: Helvetica;
+}
+
+.date {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 5px;
+    font-style: italic;
+}
+
+.boxinfo {
+    border: 1px solid grey;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+}
+
+.titleposition {
+    margin: -10px;
+}
+.aside{
+    width: 300px;
+    float: left;
+    text-align: left;
+    
 }
