@@ -25,7 +25,7 @@ html {
 
 h1 {
     font-family: 'Swanky and Moo Moo', cursive;
-    padding: 18px;
+    padding:  18px;
     color: white;
     background-color: black;
 }
@@ -37,15 +37,21 @@ h1 a {
 h2 {
     margin-top: 40px;
     font-size: 22px;
+    font-style:
+  
+  
 }
 
 h3 {
     font-size: 16px;
     margin: 0;
 }
-
+h4{
+    font-size: 14px;
+    margin: 0;
+}
 p {
-    font-size: 10px;
+    font-size: 12px;
     padding-top: 0;
     box-sizing: border-box;
     margin-top: 0;
@@ -101,7 +107,7 @@ li {
 .one-third {
     width: 300px;
     float: left;
-    text-align: left;
+    text-align: center;
     
 }
 
@@ -126,7 +132,7 @@ li {
 .page-middle {
     background-color: #f1f1f1;
     padding-bottom: 30px;
-    /*change this color!!!!!!!!*/
+   
 }
 
 .cases {
@@ -156,14 +162,14 @@ li {
 
 }
 
-.colorbars {
+.bars {
     background-image: url("../images/marker-3-3.png");
     background-repeat: no-repeat;  
        background-position: 5px 35px;
 
 }
 
-.greenshirts {
+.green{
       background-image: url("../images/marker-3-4.png");
     background-repeat: no-repeat; 
        background-position: 5px 35px;
@@ -173,7 +179,7 @@ li {
 .star {
    background-image: url("../images/marker-3-5.png");
    background-repeat: no-repeat; 
-   background-position: 5px 35px;
+   background-position: 10px 50px;
 }
 
 
@@ -185,11 +191,12 @@ a {
     color: black;
 }
 
+
 footer {
     color: white;
     background-color: black;
-    height: 120px;
-    margin-top: 20px;
+    height: 80px;
+    margin-top: 40px;
     font-style: italic;
 }
 
@@ -240,11 +247,17 @@ span {
 
 .boxinfo {
     border: 1px solid grey;
-    margin-top: 10px;
+    margin-top: 8px;
     margin-bottom: 10px;
     background-repeat: no-repeat;
 }
 
 .titleposition {
     margin: -10px;
+}
+.aside{
+    width: 300px;
+    float: left;
+    text-align: left;
+    
 }
