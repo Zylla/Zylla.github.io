@@ -25,7 +25,7 @@ html {
 
 h1 {
     font-family: 'Swanky and Moo Moo', cursive;
-    padding:  18px;
+    padding: 18px;
     color: white;
     background-color: black;
 }
@@ -37,19 +37,19 @@ h1 a {
 h2 {
     margin-top: 40px;
     font-size: 22px;
-    font-style:
-  
-  
+    font:  Helvetica light;
 }
 
 h3 {
     font-size: 16px;
     margin: 0;
 }
-h4{
+
+h4 {
     font-size: 14px;
     margin: 0;
 }
+
 p {
     font-size: 12px;
     padding-top: 0;
@@ -69,7 +69,7 @@ nav li {
     text-decoration: none;
     margin-top: 40px;
     padding: 5px;
-    font-size: 12px;
+    font-size: 18px;
 }
 
 li {
@@ -108,7 +108,6 @@ li {
     width: 300px;
     float: left;
     text-align: center;
-    
 }
 
 .two-thirds {
@@ -132,7 +131,6 @@ li {
 .page-middle {
     background-color: #f1f1f1;
     padding-bottom: 30px;
-   
 }
 
 .cases {
@@ -146,7 +144,6 @@ li {
 
 .insidebox {
     padding-left: 25px;
-    
 }
 
 .realestate {
@@ -156,32 +153,28 @@ li {
 }
 
 .cart {
-   background-image: url("../images/marker-3-2.png");
+    background-image: url("../images/marker-3-2.png");
     background-repeat: no-repeat;
-       background-position: 5px 35px;
-
+    background-position: 5px 35px;
 }
 
 .bars {
     background-image: url("../images/marker-3-3.png");
-    background-repeat: no-repeat;  
-       background-position: 5px 35px;
-
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
 }
 
-.green{
-      background-image: url("../images/marker-3-4.png");
-    background-repeat: no-repeat; 
-       background-position: 5px 35px;
-
+.green {
+    background-image: url("../images/marker-3-4.png");
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
 }
 
 .star {
-   background-image: url("../images/marker-3-5.png");
-   background-repeat: no-repeat; 
-   background-position: 10px 50px;
+    background-image: url("../images/marker-3-5.png");
+    background-repeat: no-repeat;
+    background-position: 10px 50px;
 }
-
 
 a:link {
     text-decoration: none;
@@ -190,7 +183,6 @@ a:link {
 a {
     color: black;
 }
-
 
 footer {
     color: white;
@@ -215,14 +207,15 @@ footer {
 
 
 /*position absolute to parent element*/
+
 .textposition {
     position: relative;
 }
 
 .captext {
     position: absolute;
-    left:55px;
-    top:150px;
+    left: 55px;
+    top: 150px;
     color: white;
     text-align: left;
     font-size: 36px;
@@ -250,14 +243,9 @@ span {
     margin-top: 8px;
     margin-bottom: 10px;
     background-repeat: no-repeat;
+ 
 }
 
 .titleposition {
     margin: -10px;
-}
-.aside{
-    width: 300px;
-    float: left;
-    text-align: left;
-    
 }
