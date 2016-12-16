@@ -24,7 +24,7 @@ html {
 }
 
 h1 {
-    font-family: 'Swanky and Moo Moo', cursive;
+    font-family: 'Swanky and Moo Moo';
     padding: 18px;
     color: white;
     background-color: black;
@@ -37,7 +37,7 @@ h1 a {
 h2 {
     margin-top: 40px;
     font-size: 22px;
-    font:  Helvetica light;
+    font-weight: normal;
 }
 
 h3 {
@@ -240,10 +240,11 @@ span {
 
 .boxinfo {
     border: 1px solid grey;
-    margin-top: 8px;
+    margin-top:10px;
     margin-bottom: 10px;
     background-repeat: no-repeat;
- 
+    width: 300px;
+   
 }
 
 .titleposition {
