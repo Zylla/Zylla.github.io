@@ -1,0 +1,251 @@
+@charset "UTF-8";
+
+/* Box sizing */
+
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-sizing: inherit;
+}
+
+.box {
+    margin: 20px;
+    padding: 20px;
+    border;
+    5px;
+    width: 265px;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 14px;
+    background-color: lightgray;
+    color: black;
+    padding: 5px 5px;
+    border-radius: 14px;
+    border: 1px solid grey
+}
+
+.textposition {
+    position: relative;
+}
+
+.captext {
+    position: absolute;
+    left: 55px;
+    top: 150px;
+    color: #ffffff;
+    text-align: left;
+    font-size: 36px;
+}
+
+em {
+    font-family: "Swanky and moo Moo", cursive;
+    color: firebrick
+}
+
+span {
+    font-family: helvetica;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.header {
+    background-color: #FFFFFF;
+}
+
+.main {
+    background-color: #fdfdfd;
+}
+
+.nav {
+    padding-top: 40px;
+    max-height: none;
+}
+
+.header {
+    text-align: center;
+    color: #fff;
+    background: #ffffff;
+    margin-bottom: 50px;
+}
+
+.page-header p {
+    padding-left: 15px;
+    font-size: 26px;
+}
+
+.container {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.column {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.row {
+    overflow: hidden;
+}
+
+.one-whole {
+    width: 940px;
+}
+
+.three-quarters {
+    width: 700px;
+}
+
+.one-four {
+    width: 200px;
+}
+
+.one-half {
+    width: 460px;
+}
+
+.two-third {
+    width: 620px;
+}
+
+.one-third {
+    width: 300px;
+}
+
+.one-six {
+    140px;
+}
+
+.alpha {
+    margin-right: 0px;
+}
+
+.omega {
+    margin-right: 0px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/*Header Styles*/
+
+.pull-right {
+    float: right;
+}
+
+
+/*Main Content*/
+
+.page-header {
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+page header p {
+    padding-left: 15px;
+}
+
+
+/* Home page */
+
+.page-header.home {
+    margin-bottom: 0;
+}
+
+.message {
+    padding-top: 60px;
+    padding-left: 60px;
+}
+
+.logo {
+    font: 'Swanky and Moo Moo', cursive;
+}
+
+h1 {
+    font-family: 'Swanky and Moo Moo', cursive;
+    background-color: black;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.main-content-bottom {
+    padding-bottom: 75px;
+}
+
+.servicetext {
+    text-align: left;
+}
+
+.insidebox {
+    padding-left: 25px;
+}
+
+.realestate {
+    background-image: url("../images/marker-3-1.png");
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
+}
+
+.cart {
+    background-image: url("../images/marker-3-2.png");
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
+}
+
+.company {
+    background-image: url("../images/marker-3-3.png");
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
+}
+
+.inheritance {
+    background-image: url("../images/marker-3-4.png");
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
+}
+
+.litigation {
+    background-color: url("../images/marker-3-5.png");
+    background-repeat: no-repeat;
+    background-position: 5px 35px;
+}
+
+.about {
+    align-content: center;
+}
+
+.footer {
+    background-color: #070707;
+    color: #ffffff;
+}

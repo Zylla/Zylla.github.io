@@ -1,0 +1,142 @@
+Alice<!-- Header start -->
+
+    <!-- Heading 1 with nested link for "Alice Smith", use "index.html" for href attribute value -->
+    Alice Smith
+    
+    <!-- Nav start -->
+    
+        <!-- Unordered list, each list item is a link, target "about.html" for About, "#" for the rest -->
+        About
+        Services
+        Practice
+        Resources
+        Clients
+        Contacts
+    
+    <!-- Nav end -->
+	
+<!-- Header end -->
+
+
+<!-- Main start -->
+
+    <!-- Section start -->
+    
+        <!-- Div start -->
+            <!-- Heading 2 -->
+            Publications Areas
+            
+            <!-- Heading 3 -->
+            Business
+            
+            <!-- Paragraph, make "[...]" a link -->
+            Lorem ipsum dolor ametcon secteter adipcng nonumy hendreit mauris. Porta fusce variusm natoque penatibus magnis [...]
+        
+        <!-- Div end -->
+        
+        <!-- Div start -->
+        
+            <!-- Heading 2 -->
+            Need Practical Help?
+            
+            <!-- Heading 3 -->
+            Education
+            
+            <!-- Paragraph, make "[...]" a link -->
+            Lorem ipsum dolor ametcon secteter adipcng nonumy hendreit mauris. Porta fusce variusm natoque penatibus magnis [...]
+        
+        <!-- Div end -->
+        
+        <!-- Div start -->
+        
+            <!-- Heading 2 -->
+            Our Projects
+            
+            <!-- Heading 3 -->
+            Science
+            
+            <!-- Paragraph, make "[...]" a link -->
+            Lorem ipsum dolor ametcon secteter adipcng nonumy hendreit mauris. Porta fusce variusm natoque penatibus magnis [...]
+        
+        <!-- Div end -->
+    
+    <!-- Section end -->
+
+	<!-- Section start -->
+	
+        <!-- Div start -->
+        
+            <!-- Heading 2 -->
+            Popular Services
+            
+            <!-- Heading 3 -->
+            Research Legal Topics
+            
+            <!-- Paragraph -->
+            Praesent vestibulum molestie lacus. Aenean non hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio.        
+        
+            <!-- Heading 3 -->
+            Find a Lawyer Quick Search
+            
+            <!-- Paragraph -->
+            Praesent vestibulum molestie lacus. Aenean non hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio.
+        
+            <!-- Heading 3 -->
+            Browse for a Lawyer
+            
+            <!-- Paragraph -->
+            Praesent vestibulum molestie lacus. Aenean non hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio.
+        
+        <!-- Div end -->
+        
+        <!-- Div (or Aside) start -->
+	
+            <!-- Heading 2 -->
+            Our Services at a Glance
+    
+            <!-- Heading 3 -->
+            Real Estate
+    
+          
+     <!-- Paragraph, make "[...]" a link -->
+            Our qualified team of lawyers and solic [...]
+            <!-- Heading 3 -->
+            Fiscal Advising
+    
+            <!-- Paragraph, make "[...]" a link -->
+            Our lawyers give a personal fiscal [...]
+    
+            <!-- Heading 3 -->
+            Company Advisors
+    
+            <!-- Paragraph, make "[...]" a link -->
+            We provide our clients with a full residen [...]
+    
+            <!-- Heading 3 -->
+            Inheritance
+    
+            <!-- Paragraph, make "[...]" a link -->
+            We provide our clients with a full [...]
+    
+            <!-- Heading 3 -->
+            Litigation
+    
+            <!-- Paragraph, make "[...]" a link -->
+            Our lawyers will work hard to defend [...]
+		
+		<!-- Div (or Aside) end -->
+		
+	<!-- Section end -->
+
+<!-- Main end -->
+
+
+<!-- Footer start -->
+  
+	<!-- Paragraph, make "Privacy Policy" a link -->
+  Alice Smith &copy; Privacy Policy
+
+  <!-- Paragraph -->
+  Toll free number: 1-800-123-DATA
+
+<!-- Footer end -->

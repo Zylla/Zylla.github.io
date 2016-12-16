@@ -1,0 +1,142 @@
+<!-- Header start -->
+
+    <!-- Heading 1 with nested link for "Alice Smith", use "index.html" for href attribute value, use web font -->
+    Alice Smith
+    
+        <!-- Nav start -->
+        
+            <!-- Unordered list, each list item is a link, target "about.html" for About, "#" for the rest -->
+            About
+            Services
+            Practice
+            Resources
+            Clients
+            Contacts
+            
+        <!-- Nav end -->
+	
+<!-- Header end -->
+
+<!-- Main start -->
+
+    <!-- Section start -->
+    
+        <!-- Image, enter "Alice Smith" for alt attribute value --> 
+        <!-- path to image file: images/slide1.jpg -->
+        
+        <!-- Div start -->
+        
+            <!-- Heading 2, also wraps "your constitutional right for qualified legal help" -->
+            Realize
+            
+            <!-- Span -->
+            your constitutional right for qualified
+            
+            <!-- Em, use web font -->
+            legal help
+        
+        <!-- Div end -->
+        
+    <!-- Section end -->
+
+    <!-- Section start -->
+    
+        <!-- Heading 2 -->
+        Welcome Message
+        
+        <!-- Paragraph -->
+        Lorem ipsum dolor sit ametcon secteter adipn scing elit. Praesent sit vestib molestie. Aenean nonumy hendreit mauris.
+        
+        <!-- Paragraph with nested link -->
+        Porta variusm natoque penatibus magnis. Montes nascetr mugiat suada odio. Morbi nunc odio, gravida atcursus nec luctus duis ultricies pharetra magna.
+        
+        <!-- Paragraph with nested link -->
+        Read More
+        
+    <!-- Section end -->
+
+	<!-- Section start -->
+	
+        <!-- Heading 2 -->
+        Need Practical Help?
+        
+        <!-- Paragraph, Bold -->
+        Porta variusm hendreit mauris
+        
+        <!-- Paragraph -->
+        Lorem ipsum dolor ametcon secteter adipcng elit. Praesent sit vestib moles­tie. Aenean nonumy hendreit mauris. Porta fusce variusm natoque penatibus magnis. Montes nascetr mugiat suada odio. Morbi nunc odio, gravida atcursus necin luctus uque duis ultricies.
+        
+        <!-- Paragraph with nested link -->
+        Read More
+		
+	<!-- Section end -->
+
+	<!-- Section start -->
+	
+		<!-- Heading 2 -->
+		News & Events
+
+		<!-- Paragraph -->
+		Mon, July 30
+
+		<!-- Paragraph -->
+		Lorem ipsum dolor sit ametcon secteter ading praesent sit vestib molestie.
+
+		<!-- Paragraph -->
+		Wed, July 25
+
+		<!-- Paragraph -->
+		Aenean nonumy hendreit mauris. Porta fusce variusm natoque penatibus magnis.
+
+		<!-- Paragraph with nested link -->
+		More News
+	 
+	 <!-- Section end -->
+
+	 <!-- Section start -->
+	 
+		<!-- Heading 2 -->
+		Areas of Practice
+	
+        <!-- Unordered list, each list item is a link, use "#" for attribute value -->
+        Elder Abuse Cases
+        Employment Law
+        Family Law
+        Immigration Law
+        Insurance Law
+    
+        <!-- Unordered list, each list item is a link, use "#" for attribute value -->
+        Malpractice Law
+        Real Property Law
+        Securities Law
+        Juvenile Law
+        Social Security Law
+    
+        <!-- Unordered list, each list item is a link, use "#" for attribute value -->
+        Criminal Law
+        Intellectual Property
+        Class Action Lawsuits
+        Real Property Law
+        Business Law
+    
+        <!-- Unordered list, each list item is a link, use "#" for attribute value -->
+        Workers' Compensation Law
+        Labor Law
+        Landlord-Tenant Law
+        Malpractice Law
+        Serious Personal Injury Cases
+			
+	  <!-- Section end -->
+		
+<!-- Main end -->
+
+
+<!-- Footer start -->
+
+  <!-- Paragraph, make "Privacy Policy" a link -->
+  Alice Smith &copy; Privacy Policy
+
+  <!-- Paragraph -->
+  Toll free number: 1-800-123-DATA
+
+<!-- Footer end -->
